@@ -1,0 +1,41 @@
+body{
+    padding: 30px;
+    background-color: #FFFFFF;
+}
+
+navContainer{
+    margin-bottom: 40px;
+
+}
+
+.navigation{
+front-size: 0;
+}
+
+.navStyle{
+    background-color: #4A9568;
+    color: #FFFFFF;
+    text-align: center;
+    border: 1px solid #3F8059;
+    box-border: border-box;
+    width: 200px;
+    padding: 15px 20px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-wight: 500;
+    text-transformer: capitalize;
+    display: inline-block;
+
+}#3F8059
+
+navItemStyle:hover{
+    background-color: #3F8059;
+}
+
+navItem > a{
+    width: 100%;
+
+}
+navItem{
+    display: inline-block;
+}
